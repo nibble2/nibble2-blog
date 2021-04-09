@@ -1,4 +1,4 @@
-baseURL = "http://nibble2.github.io/"
+baseURL = "https://nibble2.github.io/"
 languageCode = "en-us"
 title = "Nibble ✨"
 theme = "paper"
