@@ -1,0 +1,83 @@
+baseURL: "https://nibble2.github.io/"
+title: nibble2.github.io
+paginate: 8
+theme: paper
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+disqusShortname: nibble2-github-io
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+DefaultContentLanguage: korean
+languages:
+  korean:
+    weight: 1
+    title: nibble2.github.io
+    homeInfoParams:
+      Title: "Hello Universe \U0001FA90"
+    menu:
+      main:
+        - name: Archives
+          url: /archives/
+          weight: 5
+        - name: Tags
+          url: /tags/
+          weight: 10
+        - name: Search
+          url: /search
+          weight: 10
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: nibble2.github.io
+  description: "ExampleSite description"
+  author: nibble2
+  # author: ["Me", "You"] # multiple authors
+
+  images: ["papermod-cover.png"]
+
+  ShowShareButtons: true
+  comments: true
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: false
+
+  fuseOpts:
+
+  assets:
+    disableFingerprinting: true
+
+  label:
+    text: "nibble2.github.io"
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello universe \U0001F44B"
+    Content: Welcome
+  socialIcons:
+    - name: github
+      url: "https://github.com/nibble2"
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: nibble2.github.io
+    # imageUrl: '<img location>'
+    # imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
