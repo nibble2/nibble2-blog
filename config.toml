@@ -57,3 +57,7 @@ home = [
   name = "Series"
   url = "/series/"
   weight = 10.0
+
+  [[menu.main]]
+  title = "Archive"
+  url = "/post/"
