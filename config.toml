@@ -61,3 +61,15 @@ home = [
   [[menu.main]]
   title = "Archive"
   url = "/post/"
+
+  [profileMode]
+  enabled = false
+  title = "nibble2.github.io"
+
+  [[profileMode.buttons]]
+  name = "Posts"
+  url = "posts"
+
+  [[profileMode.buttons]]
+  name = "Tags"
+  url = "tags"
