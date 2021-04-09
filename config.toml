@@ -62,9 +62,9 @@ home = [
   title = "Archive"
   url = "/post/"
 
-  [profileMode]
-  enabled = false
-  title = "nibble2.github.io"
+[profileMode]
+enabled = false
+title = "raeperd.github.io"
 
   [[profileMode.buttons]]
   name = "Posts"
