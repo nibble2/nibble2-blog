@@ -1,7 +1,7 @@
 baseURL = "http://nibble2.github.io/"
 languageCode = "en-us"
 title = "Nibble ✨"
-theme = "hugo-PaperMod"
+theme = "paper"
 
 enableRobotsTXT = true
 buildDrafts = false
