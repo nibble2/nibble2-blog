@@ -24,14 +24,14 @@ languages:
         - name: Archive
           url: archives
           weight: 5
-        - name: Search
-          url: search/
-          weight: 10
         - name: Tags
           url: tags/
           weight: 10
         - name: Categories
           url: categories/
+          weight: 10
+        - name: About
+          url: about/
           weight: 10
 
 params:
@@ -51,7 +51,7 @@ params:
     disableFingerprinting: true
 
   label:
-    text: "Nibble ✨"
+    text: "Nibble 개발 블로그✨"
 
   homeInfoParams:
     Title: 이다나 | Lee da na
