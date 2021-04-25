@@ -30,9 +30,6 @@ languages:
         - name: Categories
           url: categories/
           weight: 10
-        - name: About
-          url: about/
-          weight: 10
 
 params:
   env: production
