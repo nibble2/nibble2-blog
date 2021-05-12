@@ -7,3 +7,5 @@
 ## Template
 - hugo
 - hugo-paper-mod
+
+[블로그 구경가기 👀](https://nibble2.github.io/)
