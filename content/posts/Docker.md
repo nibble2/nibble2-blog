@@ -1,23 +1,24 @@
 ---
 author: "Nibble"
-title: "Docker"
+title: "Docker로 MongoDB를 사용할 때 주의할 점"
 date: "2021-05-26"
 tag: "Docker"
 categories: "내가 정리한 개념"
 ShowToc: false
 ShowBreadCrumbs: false
-draft: true
 ---
 
-# Docker
-
-## Docker를 사용할 때 주의할 점
-1. DB
-    나의 Demon mongoDB
+# 상황
+모든 프로그램은 보통 포트도 함께 설정이 된다. 나의 Demon MongoDB:27017(local) vs Docker MongoDB:27017가 충돌되어 DB에 접속하지 못하는 상황이 발생하였다.
 
 
-    
-    
+1. docker-compose.yml 포트 변경
+- 변경된 포트를 사용하여 docker mongoDB로 접근한다.
+- 나의 local mongoDB PORT : 27017
+- 도커 MONGODB PORT로 접속하는 포트 : 27018
+  
+  - 주의할점은 도커네의 몽고디비 포트는 27017이다
+        
 <br />
 
 ---
