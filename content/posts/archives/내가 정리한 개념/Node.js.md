@@ -8,11 +8,11 @@ ShowToc: false
 ShowBreadCrumbs: false
 weight: 1
 cover:
-    image: "<image path/https://miro.medium.com/max/1838/1*MuVcoMPyJcq8G4qf5s3HGQ.png>"
+    image: "https://miro.medium.com/max/1838/1*MuVcoMPyJcq8G4qf5s3HGQ.png"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "<text>"
+    alt: "node"
+    caption: "node"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
