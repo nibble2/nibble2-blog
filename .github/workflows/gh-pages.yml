@@ -27,5 +27,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.NIBBLE2_TOKEN }}
+          BRANCH: main
           publish_branch: gh-pages
           force_orphan: true
