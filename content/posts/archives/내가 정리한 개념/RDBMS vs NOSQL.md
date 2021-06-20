@@ -2,7 +2,7 @@
 author: "Nibble"
 title: "RDBMS vs NOSQL"
 date: "2021-03-03"
-tag: "DB"
+tags: ["DB"]
 categories: "내가 정리한 개념"
 ShowToc: false
 ShowBreadCrumbs: false

@@ -2,7 +2,7 @@
 author: "Nibble"
 title: "Docker로 MongoDB를 사용할 때 주의할 점"
 date: "2021-05-26"
-tag: "Docker"
+tags: ["Docker"]
 categories: "내가 정리한 개념"
 ShowToc: false
 ShowBreadCrumbs: false
