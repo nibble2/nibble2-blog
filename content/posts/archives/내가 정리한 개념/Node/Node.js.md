@@ -2,7 +2,7 @@
 title: "Node.js"
 date: "2021-05-05"
 tags: ["Node.js"]
-categories: "Node"
+categories: "내가 정리한 개념"
 ShowToc: false
 ShowBreadCrumbs: false
 weight: 1
