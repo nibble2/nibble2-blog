@@ -1,9 +1,8 @@
 ---
-author: "Nibble"
 title: "Node.js"
 date: "2021-05-05"
 tags: ["Node.js"]
-categories: "내가 정리한 개념", "Node"
+categories: "Node"
 ShowToc: false
 ShowBreadCrumbs: false
 weight: 1
