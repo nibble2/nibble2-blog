@@ -1,5 +1,5 @@
 ---
-title: "클로저(Closure)"
+title: "클로저(Closure) 발표 자료"
 date: "2021-07-01"
 description: "클로저 발표 내용"
 tags: ["클로저"]
