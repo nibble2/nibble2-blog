@@ -77,8 +77,13 @@ console.log(outer2); //2
 
 - 이번에도 똑같이 inner함수 내부에서 외부 변수인 a를 사용했다. 그런데 ✅  줄에는 inner 함수를 실행한 결과를 리턴하고 있으므로 결과적으로 outer 함수의 실행 컨텍스트가 종료된 시점에는 a 변수를 참조하는 대상이 없어진다.
 
-예제 1과 2 둘다 outer 함수의 실행 컨텍스트가 종료되기 이전에 inner 함수의 실행 컨텍스트가 종료돼 있으며, 이후 별도로 inner 함수를 호춯할 수 없다는 공통점이 있습니다. 그렇다면 **outer의 실행 컨텍스트가 종료된 후에도 inner 함수를 호출할 수 있게 만들면 어떨까?**
+<br />
 
+예제 1과 2 둘다 outer 함수의 실행 컨텍스트가 종료되기 이전에 inner 함수의 실행 컨텍스트가 종료돼 있으며, 이후 별도로 inner 함수를 호출할 수 없다는 공통점이 있습니다. 그렇다면 **outer의 실행 컨텍스트가 종료된 후에도 inner 함수를 호출할 수 있게 만들면 어떨까?**
+
+<br />
+
+외부 함수의 변수를 참조하는 내부함수(3)
 ```jsx
 const outer = () => {
     let a = 1;
@@ -98,7 +103,7 @@ console.log(outer2()); //3
 
 그러면 outer 함수의 실행 컨텍스트가 종료될 때(🔥) **outer2 변수는 outer의 실행 결과인 inner 함수를 참조하게 될 것 입니다.**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f299c1d-0135-4b40-845c-865075e24c0e/_2021-07-01__8.25.45.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f299c1d-0135-4b40-845c-865075e24c0e/_2021-07-01__8.25.45.png)
+<img src="../../../../data/images/스크린샷%202021-07-02%20오전%2012.00.11.png" />
 
 이후 🍓 줄에서 outer2를 호출하면서 앞서 반환된 inner 함수가 가 실행되겠죠.
 
@@ -108,15 +113,15 @@ outer-EnvironmentReference(outer())에는 inner함수가 선언된 위치의 Lex
 
 inner 함수는 outer 함수 내부에서 선언됐으므로, outer 함수의 LexicalEnvironment가 담길 것이다.
 
-_____________inner() 전역 컨텍스트_________________________
-
+----------------------inner() 전역 컨텍스트----------------------
 - environmentRecord: { 텅 텅 }
 - outerEnvironmentReference: outer() { a: 1 → 2 → 3 }
+
+<br />
 
 이제 스코프 체이닝에 따라 outer에서 선언한 변수 a에 접근해 1만큼 증가시킨 후 그 값인 2를 반환하고 inner 함수의 실행 컨텍스트가 종료된다.
 
 ### 이상한 점! 🤔
-
 inner함수 실행 시점에는 outer 함수는 이미 실행이 종료된 상태인데 outer 함수의 LexicalEnvironment에 어떻게 접근할 수 있을까? 이는 **가비지 컬렉터의 동작 방식** 때문이다.
 
 ***가비지 컬렉터는 어떤 값을 참조하는 변수가 하나라도 있다면 그 값은 수집 대상에 포함시키지 않는다.***
