@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>자기소개서 on nibble2</title>
+    <link>https://nibble2.github.io/categories/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/</link>
+    <description>Recent content in 자기소개서 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/categories/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1분 자기소개</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/1%EB%B6%84-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/1%EB%B6%84-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C/</guid>
+      <description>1분 자기소개</description>
+    </item>
+    
+    <item>
+      <title>개발자 자기소개서 유형 및 정리</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/</guid>
+      <description>자기소개서 작성 방법</description>
+    </item>
+    
+  </channel>
+</rss>

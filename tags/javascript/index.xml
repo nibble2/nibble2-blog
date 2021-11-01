@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on nibble2</title>
+    <link>https://nibble2.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>함수 선언문보다 함수 표현식을 권장하는 이유</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EB%B3%B4%EB%8B%A4-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EB%B3%B4%EB%8B%A4-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</guid>
+      <description>함수 표현식</description>
+    </item>
+    
+    <item>
+      <title>Javascript 비동기</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%EB%B9%84%EB%8F%99%EA%B8%B0/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%EB%B9%84%EB%8F%99%EA%B8%B0/</guid>
+      <description>Javascript</description>
+    </item>
+    
+    <item>
+      <title>표현식과 문</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-deep-dive/05.-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-deep-dive/05.-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8/</guid>
+      <description>식별자  어떤 값을 구별해서 식별할 수 있는 고유한 이름을 말한다.
+ 식별자는 값이 아니라 메모리 주소를 기억하고 있다.
+result &amp;lt;- 0x066f918 30 변수이름(식별자) 메모리주소 메모리 만약 var scope; 로 변수를 선언한다면 undefined값이 암묵적으로 할당되어 초기화 된다.
+ undefined는 자바스크립트에서 제공하는 원시 타입의 값이다. (6장)  표현식과 문  값은 표현식이 평가되어 생성된 결과를 말한다.
+  평가란 식을 해석해서 값을 생성하거나 참조하는 것을 의미한다.  리터럴  사람이 이해할 수 있는 문자 또는 약속된 기호를 사용해 값을 생성하는 표기법을 말한다.</description>
+    </item>
+    
+  </channel>
+</rss>

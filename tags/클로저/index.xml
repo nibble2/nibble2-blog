@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>클로저 on nibble2</title>
+    <link>https://nibble2.github.io/tags/%ED%81%B4%EB%A1%9C%EC%A0%80/</link>
+    <description>Recent content in 클로저 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/%ED%81%B4%EB%A1%9C%EC%A0%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>클로저(Closure) 발표 자료</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/closure/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/closure/</guid>
+      <description>클로저 발표 내용</description>
+    </item>
+    
+    <item>
+      <title>클로저</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-deep-dive/24.-%ED%81%B4%EB%A1%9C%EC%A0%80/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-deep-dive/24.-%ED%81%B4%EB%A1%9C%EC%A0%80/</guid>
+      <description>들어가며.. 자바스크립트는 함수 지향 언어입니다. 이런 특징은 개발자에게 많은 자유도를 줍니다. 함수를 동적으로 생성할 수 있고, 생성한 함수를 다른 함수에 인수로 넘길 수 있으며, 생성된 곳이 아닌 곳에서 함수를 호출할 수도 있기 때문입니다.
+함수 내부에서 함수 외부에 있는 변수에 접근할 수 있다는 사실은 앞서 학습해서 알고 계실 겁니다.
+그런데 함수가 생성된 이후에 외부 변수가 변경되면 어떤 일이 발생할까요? 함수는 새로운 값을 가져올까요? 아니면 생성 시점 이전의 값을 가져올까요?
+매개변수를 통해 함수를 넘기고 이 함수를 저 멀리 떨어진 코드에서 호출할 땐 어떤 일이 발생할까요?</description>
+    </item>
+    
+  </channel>
+</rss>

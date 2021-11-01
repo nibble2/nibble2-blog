@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>세미나 후기 on nibble2</title>
+    <link>https://nibble2.github.io/categories/%EC%84%B8%EB%AF%B8%EB%82%98-%ED%9B%84%EA%B8%B0/</link>
+    <description>Recent content in 세미나 후기 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/categories/%EC%84%B8%EB%AF%B8%EB%82%98-%ED%9B%84%EA%B8%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>okky 2021년 7월 세미나 후기</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%84%B8%EB%AF%B8%EB%82%98-%ED%9B%84%EA%B8%B0/okky/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%84%B8%EB%AF%B8%EB%82%98-%ED%9B%84%EA%B8%B0/okky/</guid>
+      <description>okky 세미나 개발자에게 좋은 이직/퇴사를 위한 꿀팁</description>
+    </item>
+    
+  </channel>
+</rss>

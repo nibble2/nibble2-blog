@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ps on nibble2</title>
+    <link>https://nibble2.github.io/tags/ps/</link>
+    <description>Recent content in ps on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/ps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[TIL] 2021-04-29</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-29/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-29/</guid>
+      <description>프로젝트, 알고리즘, 스터디</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-27</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-27/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-27/</guid>
+      <description>알고리즘 복습, 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-26</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-26/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-26/</guid>
+      <description>알고리즘 복습, 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-25</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-25/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-25/</guid>
+      <description>운영체제 과외, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-20</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-20/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-20/</guid>
+      <description>SpotifyAPI, Oauth, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-19</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-19/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-19/</guid>
+      <description>CICD, Docker, Map(), 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-17</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-17/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-17/</guid>
+      <description>운영체제 과외, 월간코4월 2번, 내가 성장했다고 느낀 순간, AWS</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-16</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-16/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-16/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-15</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-15/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-15/</guid>
+      <description>SSR vs CSR, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-14</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-14/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-14/</guid>
+      <description>알고리즘과 프로젝트구상</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-13</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-13/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-13/</guid>
+      <description>면접과 알고리즘</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>함수 표현식 on nibble2</title>
+    <link>https://nibble2.github.io/tags/%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D/</link>
+    <description>Recent content in 함수 표현식 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>함수 선언문보다 함수 표현식을 권장하는 이유</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EB%B3%B4%EB%8B%A4-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EB%B3%B4%EB%8B%A4-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</guid>
+      <description>함수 표현식</description>
+    </item>
+    
+  </channel>
+</rss>

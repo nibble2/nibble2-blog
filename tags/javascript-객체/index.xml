@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript 객체 on nibble2</title>
+    <link>https://nibble2.github.io/tags/javascript-%EA%B0%9D%EC%B2%B4/</link>
+    <description>Recent content in Javascript 객체 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/javascript-%EA%B0%9D%EC%B2%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>객체리터럴</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-deep-dive/10.-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-deep-dive/10.-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4/</guid>
+      <description>객체란? JS는 객체 개반의 프로그래밍 언어이며, JS구성하는 거의 &amp;ldquo;모든 것&amp;quot;이 객체다
+원시값을 제외한 나머지값(함수, 배열, 정규표현식 등)은 모두 객체다.
+ 원시 타입의 값 : 변경 불가능한(immutable value) 객체 타입의 값 : 변경 가능한 값(mutable value)  객체는 0개 이상의 프로퍼티로 구성된 집합이며, 프로퍼티는 키와 값으로 구성된다.
+var person = { name: &amp;#39;Lee&amp;#39;; //프로퍼티 	age: 20; //프로퍼티 }; property와 method의 관계 아래는 마이크로소프트에서 정의한 프로퍼티와 메소드 설명의 일부입니다. properties store data for an object methods are actions an object can be asked to perform 프로퍼티는 object를 위해서 데이터를 저장한다.</description>
+    </item>
+    
+  </channel>
+</rss>

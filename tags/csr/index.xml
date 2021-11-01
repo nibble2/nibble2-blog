@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>csr on nibble2</title>
+    <link>https://nibble2.github.io/tags/csr/</link>
+    <description>Recent content in csr on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/csr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSR, SSR, SSG, ISG 우리는 어떤 것을 사용해야할까?</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/csr-vs-ssr/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/csr-vs-ssr/</guid>
+      <description>SSR vs CSR</description>
+    </item>
+    
+  </channel>
+</rss>

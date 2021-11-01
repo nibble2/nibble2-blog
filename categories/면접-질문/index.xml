@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>면접 질문 on nibble2</title>
+    <link>https://nibble2.github.io/categories/%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</link>
+    <description>Recent content in 면접 질문 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/categories/%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>기술 면접 질문 모음</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</guid>
+      <description>기술 면접질문 정리</description>
+    </item>
+    
+    <item>
+      <title>인성 면접 질문 모음</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9D%B8%EC%84%B1-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9D%B8%EC%84%B1-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</guid>
+      <description>인성 면접질문 정리</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on nibble2</title>
+    <link>https://nibble2.github.io/posts/</link>
+    <description>Recent content in Posts on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node.js</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/node/node.js/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/node/node.js/</guid>
+      <description>Node.js란? Node.js란 자바스크립트 런타임 환경 및 라이브러리 입니다. 서버 측 웹 응용 프로그램을 만드는 데 사용됩니다.
+자바스크립트 런타임 이제는 JS가 컴파일, 인터프리터 언어라고 할 수 없다. 왜냐하면 엔진에 따라 다르기도 하고, 컴파일과 인터프리터 둘다 쓰이기도 한다.
+노드는 자바스크립트 런타임이다. 런타임은 특정 언어로 만든 프로그램들을 실행할 수 있는 환경을 뜻합니다.
+노드는 v8과 더불어 libuv라는 라이브러리를 사용합니다.
+libuv 라이브러리는 노드의 특성인 이벤트 기반, 논블로킹 I/O 모델을 구현하고 있습니다. 노드는 스스로를 이벤트 기반, 논블로킹 I/O 모델을 사용해 가볍고 효율적이라고 표현했다.</description>
+    </item>
+    
+    <item>
+      <title>함수 선언문보다 함수 표현식을 권장하는 이유</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EB%B3%B4%EB%8B%A4-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EB%B3%B4%EB%8B%A4-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/</guid>
+      <description>함수 표현식</description>
+    </item>
+    
+    <item>
+      <title>Javascript 비동기</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%EB%B9%84%EB%8F%99%EA%B8%B0/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/%EB%B9%84%EB%8F%99%EA%B8%B0/</guid>
+      <description>Javascript</description>
+    </item>
+    
+    <item>
+      <title>okky 2021년 7월 세미나 후기</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%84%B8%EB%AF%B8%EB%82%98-%ED%9B%84%EA%B8%B0/okky/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%84%B8%EB%AF%B8%EB%82%98-%ED%9B%84%EA%B8%B0/okky/</guid>
+      <description>okky 세미나 개발자에게 좋은 이직/퇴사를 위한 꿀팁</description>
+    </item>
+    
+    <item>
+      <title>클로저(Closure) 발표 자료</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/closure/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/closure/</guid>
+      <description>클로저 발표 내용</description>
+    </item>
+    
+    <item>
+      <title>클로저</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-deep-dive/24.-%ED%81%B4%EB%A1%9C%EC%A0%80/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-deep-dive/24.-%ED%81%B4%EB%A1%9C%EC%A0%80/</guid>
+      <description>들어가며.. 자바스크립트는 함수 지향 언어입니다. 이런 특징은 개발자에게 많은 자유도를 줍니다. 함수를 동적으로 생성할 수 있고, 생성한 함수를 다른 함수에 인수로 넘길 수 있으며, 생성된 곳이 아닌 곳에서 함수를 호출할 수도 있기 때문입니다.
+함수 내부에서 함수 외부에 있는 변수에 접근할 수 있다는 사실은 앞서 학습해서 알고 계실 겁니다.
+그런데 함수가 생성된 이후에 외부 변수가 변경되면 어떤 일이 발생할까요? 함수는 새로운 값을 가져올까요? 아니면 생성 시점 이전의 값을 가져올까요?
+매개변수를 통해 함수를 넘기고 이 함수를 저 멀리 떨어진 코드에서 호출할 땐 어떤 일이 발생할까요?</description>
+    </item>
+    
+    <item>
+      <title>표현식과 문</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-deep-dive/05.-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-deep-dive/05.-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8/</guid>
+      <description>식별자  어떤 값을 구별해서 식별할 수 있는 고유한 이름을 말한다.
+ 식별자는 값이 아니라 메모리 주소를 기억하고 있다.
+result &amp;lt;- 0x066f918 30 변수이름(식별자) 메모리주소 메모리 만약 var scope; 로 변수를 선언한다면 undefined값이 암묵적으로 할당되어 초기화 된다.
+ undefined는 자바스크립트에서 제공하는 원시 타입의 값이다. (6장)  표현식과 문  값은 표현식이 평가되어 생성된 결과를 말한다.
+  평가란 식을 해석해서 값을 생성하거나 참조하는 것을 의미한다.  리터럴  사람이 이해할 수 있는 문자 또는 약속된 기호를 사용해 값을 생성하는 표기법을 말한다.</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021년 6월 첫째주</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-06-%EC%B2%AB%EC%A7%B8%EC%A3%BC/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-06-%EC%B2%AB%EC%A7%B8%EC%A3%BC/</guid>
+      <description>2021년 6월 첫째주</description>
+    </item>
+    
+    <item>
+      <title>Docker로 MongoDB를 사용할 때 주의할 점</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/docker/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/docker/</guid>
+      <description>상황 모든 프로그램은 보통 포트도 함께 설정이 된다. 나의 Demon MongoDB:27017(local) vs Docker MongoDB:27017가 충돌되어 DB에 접속하지 못하는 상황이 발생하였다.
+ docker-compose.yml 포트 변경    변경된 포트를 사용하여 docker mongoDB로 접근한다.
+  나의 local mongoDB PORT : 27017
+  도커 MONGODB PORT로 접속하는 포트 : 27018
+ 주의할점은 도커네의 몽고디비 포트는 27017이다     토론  과연 도커(Docker) 컨테이너를 통해 데이터베이스를 운영하는 게 좋은 방법일까?</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021년 5월 넷째주</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-%EB%84%B7%EC%A7%B8%EC%A3%BC/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-%EB%84%B7%EC%A7%B8%EC%A3%BC/</guid>
+      <description>2021년 5월 넷째주</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-18</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-18/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-18/</guid>
+      <description>ECR, ECS, Redis</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021년 5월 셋째주</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-%EC%85%8B%EC%A7%B8%EC%A3%BC/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-%EC%85%8B%EC%A7%B8%EC%A3%BC/</guid>
+      <description>2021년 5월 셋째주</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-17</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-17/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-17/</guid>
+      <description>“알고리즘 스터디, 출근”</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-16</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-16/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-16/</guid>
+      <description>알고리즘 스터디 배열</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-15</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-15/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-15/</guid>
+      <description>운영체제 과외, 알고리즘 스터디 배열</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-12</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-12/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-12/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-11</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-11/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-11/</guid>
+      <description>개발일기, 앞으로의 방향성</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-10</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-10/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-10/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-09</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-09/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-09/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-08</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-08/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-08/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>1분 자기소개</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/1%EB%B6%84-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/1%EB%B6%84-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C/</guid>
+      <description>1분 자기소개</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-06</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-06/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-06/</guid>
+      <description>이력서 작성, JS 클린코드</description>
+    </item>
+    
+    <item>
+      <title>Javascritp 클린 코드 - 변수</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-clean-code/01.-%EB%B3%80%EC%88%98/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-clean-code/01.-%EB%B3%80%EC%88%98/</guid>
+      <description>Javascritp 클린 코드 - 변수</description>
+    </item>
+    
+    <item>
+      <title>개발자 자기소개서 유형 및 정리</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/</guid>
+      <description>자기소개서 작성 방법</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-03</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-03/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-03/</guid>
+      <description>To do list  알고리즘 스터디 week 0  알고리즘 스터디 드디어 시작 여러 사람들과 같이 Git을 사용할 수 있는 경험과 코드리뷰를 남기고 더 열심히 알고리즘을 풀 수 있는 계기가 될 것 같다.</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-02</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-02/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-02/</guid>
+      <description>운영체제 스터디</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-30</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-30/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-30/</guid>
+      <description>오픈소스 기여</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-29</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-29/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-29/</guid>
+      <description>프로젝트, 알고리즘, 스터디</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-28</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-28/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-28/</guid>
+      <description>프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-27</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-27/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-27/</guid>
+      <description>알고리즘 복습, 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-26</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-26/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-26/</guid>
+      <description>알고리즘 복습, 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-25</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-25/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-25/</guid>
+      <description>운영체제 과외, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-24</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-24/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-24/</guid>
+      <description>면접회고</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-21</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-21/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-21/</guid>
+      <description>면접준비</description>
+    </item>
+    
+    <item>
+      <title>기술 면접 질문 모음</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</guid>
+      <description>기술 면접질문 정리</description>
+    </item>
+    
+    <item>
+      <title>인성 면접 질문 모음</title>
+      <link>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9D%B8%EC%84%B1-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84/%EC%9D%B8%EC%84%B1-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8/</guid>
+      <description>인성 면접질문 정리</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-20</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-20/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-20/</guid>
+      <description>SpotifyAPI, Oauth, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-19</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-19/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-19/</guid>
+      <description>CICD, Docker, Map(), 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-18</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-18/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-18/</guid>
+      <description>new project</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-17</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-17/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-17/</guid>
+      <description>운영체제 과외, 월간코4월 2번, 내가 성장했다고 느낀 순간, AWS</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-16</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-16/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-16/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-15</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-15/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-15/</guid>
+      <description>SSR vs CSR, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>CSR, SSR, SSG, ISG 우리는 어떤 것을 사용해야할까?</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/csr-vs-ssr/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/csr-vs-ssr/</guid>
+      <description>SSR vs CSR</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-14</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-14/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-14/</guid>
+      <description>알고리즘과 프로젝트구상</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-13</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-13/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-13/</guid>
+      <description>면접과 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-09</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-09/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-09/</guid>
+      <description>First git blog 💛</description>
+    </item>
+    
+    <item>
+      <title>객체리터럴</title>
+      <link>https://nibble2.github.io/posts/archives/javascript-deep-dive/10.-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/javascript-deep-dive/10.-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4/</guid>
+      <description>객체란? JS는 객체 개반의 프로그래밍 언어이며, JS구성하는 거의 &amp;ldquo;모든 것&amp;quot;이 객체다
+원시값을 제외한 나머지값(함수, 배열, 정규표현식 등)은 모두 객체다.
+ 원시 타입의 값 : 변경 불가능한(immutable value) 객체 타입의 값 : 변경 가능한 값(mutable value)  객체는 0개 이상의 프로퍼티로 구성된 집합이며, 프로퍼티는 키와 값으로 구성된다.
+var person = { name: &amp;#39;Lee&amp;#39;; //프로퍼티 	age: 20; //프로퍼티 }; property와 method의 관계 아래는 마이크로소프트에서 정의한 프로퍼티와 메소드 설명의 일부입니다. properties store data for an object methods are actions an object can be asked to perform 프로퍼티는 object를 위해서 데이터를 저장한다.</description>
+    </item>
+    
+    <item>
+      <title>RDBMS vs NOSQL</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/rdbms-vs-nosql/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/rdbms-vs-nosql/</guid>
+      <description>RDBMS(Relational Database Management System)  관계형 데이터베이스를 생성하고 수정, 삭제 관리할 수 있는 소프트웨어
+  SQL(Structured Query Language) 데이터베이스에서 사용하는 쿼리 언어 RDB(Relational Database)란 관계형 데이터 모델에 기초를 둔 데이터 베이스 데이터는 정해진(엄격한) 데이터 스키마 (= structure)를 따라 데이터베이스 테이블에 저장됩니다. 데이터는 관계를 통해서 연결된 여러개의 테이블에 분산됩니다.   1. 엄격한 스키마 데이터는 테이블(table)에 레코드(record)로 저장되며, 각 테이블에는 명확하게 정의된 구조(structure)가 있습니다. (구조란 어떤 데이터가 테이블에 들어가고 어떤 데이터가 그렇지 않을지를 정의하는 필드(field) 집합을 가르킵니다.</description>
+    </item>
+    
+  </channel>
+</rss>

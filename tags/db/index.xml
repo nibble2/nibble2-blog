@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DB on nibble2</title>
+    <link>https://nibble2.github.io/tags/db/</link>
+    <description>Recent content in DB on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RDBMS vs NOSQL</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/rdbms-vs-nosql/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/rdbms-vs-nosql/</guid>
+      <description>RDBMS(Relational Database Management System)  관계형 데이터베이스를 생성하고 수정, 삭제 관리할 수 있는 소프트웨어
+  SQL(Structured Query Language) 데이터베이스에서 사용하는 쿼리 언어 RDB(Relational Database)란 관계형 데이터 모델에 기초를 둔 데이터 베이스 데이터는 정해진(엄격한) 데이터 스키마 (= structure)를 따라 데이터베이스 테이블에 저장됩니다. 데이터는 관계를 통해서 연결된 여러개의 테이블에 분산됩니다.   1. 엄격한 스키마 데이터는 테이블(table)에 레코드(record)로 저장되며, 각 테이블에는 명확하게 정의된 구조(structure)가 있습니다. (구조란 어떤 데이터가 테이블에 들어가고 어떤 데이터가 그렇지 않을지를 정의하는 필드(field) 집합을 가르킵니다.</description>
+    </item>
+    
+  </channel>
+</rss>

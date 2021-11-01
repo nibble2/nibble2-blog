@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>면접 on nibble2</title>
+    <link>https://nibble2.github.io/tags/%EB%A9%B4%EC%A0%91/</link>
+    <description>Recent content in 면접 on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/%EB%A9%B4%EC%A0%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[TIL] 2021-04-17</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-17/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-17/</guid>
+      <description>운영체제 과외, 월간코4월 2번, 내가 성장했다고 느낀 순간, AWS</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-13</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-13/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-13/</guid>
+      <description>면접과 알고리즘</description>
+    </item>
+    
+  </channel>
+</rss>

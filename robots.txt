@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nibble2.github.io/sitemap.xml

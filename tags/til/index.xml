@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIL on nibble2</title>
+    <link>https://nibble2.github.io/tags/til/</link>
+    <description>Recent content in TIL on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/til/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[TIL] 2021년 6월 첫째주</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-06-%EC%B2%AB%EC%A7%B8%EC%A3%BC/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-06-%EC%B2%AB%EC%A7%B8%EC%A3%BC/</guid>
+      <description>2021년 6월 첫째주</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021년 5월 넷째주</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-%EB%84%B7%EC%A7%B8%EC%A3%BC/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-%EB%84%B7%EC%A7%B8%EC%A3%BC/</guid>
+      <description>2021년 5월 넷째주</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-18</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-18/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-18/</guid>
+      <description>ECR, ECS, Redis</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021년 5월 셋째주</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-%EC%85%8B%EC%A7%B8%EC%A3%BC/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-%EC%85%8B%EC%A7%B8%EC%A3%BC/</guid>
+      <description>2021년 5월 셋째주</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-17</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-17/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-17/</guid>
+      <description>“알고리즘 스터디, 출근”</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-16</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-16/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-16/</guid>
+      <description>알고리즘 스터디 배열</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-15</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-15/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-15/</guid>
+      <description>운영체제 과외, 알고리즘 스터디 배열</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-12</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-12/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-12/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-11</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-11/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-11/</guid>
+      <description>개발일기, 앞으로의 방향성</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-10</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-10/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-10/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-09</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-09/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-09/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-08</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-08/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-08/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-06</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-06/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-06/</guid>
+      <description>이력서 작성, JS 클린코드</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-03</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-03/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-03/</guid>
+      <description>To do list  알고리즘 스터디 week 0  알고리즘 스터디 드디어 시작 여러 사람들과 같이 Git을 사용할 수 있는 경험과 코드리뷰를 남기고 더 열심히 알고리즘을 풀 수 있는 계기가 될 것 같다.</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-05-02</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-05-02/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-05-02/</guid>
+      <description>운영체제 스터디</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-30</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-30/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-30/</guid>
+      <description>오픈소스 기여</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-29</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-29/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-29/</guid>
+      <description>프로젝트, 알고리즘, 스터디</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-28</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-28/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-28/</guid>
+      <description>프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-27</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-27/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-27/</guid>
+      <description>알고리즘 복습, 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-26</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-26/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-26/</guid>
+      <description>알고리즘 복습, 프로젝트</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-25</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-25/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-25/</guid>
+      <description>운영체제 과외, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-24</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-24/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-24/</guid>
+      <description>면접회고</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-21</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-21/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-21/</guid>
+      <description>면접준비</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-20</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-20/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-20/</guid>
+      <description>SpotifyAPI, Oauth, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-19</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-19/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-19/</guid>
+      <description>CICD, Docker, Map(), 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-18</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-18/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-18/</guid>
+      <description>new project</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-17</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-17/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-17/</guid>
+      <description>운영체제 과외, 월간코4월 2번, 내가 성장했다고 느낀 순간, AWS</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-16</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-16/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-16/</guid>
+      <description>알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-15</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-15/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-15/</guid>
+      <description>SSR vs CSR, 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-14</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-14/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-14/</guid>
+      <description>알고리즘과 프로젝트구상</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-13</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-13/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-13/</guid>
+      <description>면접과 알고리즘</description>
+    </item>
+    
+    <item>
+      <title>[TIL] 2021-04-09</title>
+      <link>https://nibble2.github.io/posts/archives/til/2021-04-09/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/til/2021-04-09/</guid>
+      <description>First git blog 💛</description>
+    </item>
+    
+  </channel>
+</rss>

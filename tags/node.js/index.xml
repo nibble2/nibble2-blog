@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node.js on nibble2</title>
+    <link>https://nibble2.github.io/tags/node.js/</link>
+    <description>Recent content in Node.js on nibble2</description>
+    <image>
+      <url>https://nibble2.github.io/papermod-cover.png</url>
+      <link>https://nibble2.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nibble2.github.io/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Node.js</title>
+      <link>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/node/node.js/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nibble2.github.io/posts/archives/%EB%82%B4%EA%B0%80-%EC%A0%95%EB%A6%AC%ED%95%9C-%EA%B0%9C%EB%85%90/node/node.js/</guid>
+      <description>Node.js란? Node.js란 자바스크립트 런타임 환경 및 라이브러리 입니다. 서버 측 웹 응용 프로그램을 만드는 데 사용됩니다.
+자바스크립트 런타임 이제는 JS가 컴파일, 인터프리터 언어라고 할 수 없다. 왜냐하면 엔진에 따라 다르기도 하고, 컴파일과 인터프리터 둘다 쓰이기도 한다.
+노드는 자바스크립트 런타임이다. 런타임은 특정 언어로 만든 프로그램들을 실행할 수 있는 환경을 뜻합니다.
+노드는 v8과 더불어 libuv라는 라이브러리를 사용합니다.
+libuv 라이브러리는 노드의 특성인 이벤트 기반, 논블로킹 I/O 모델을 구현하고 있습니다. 노드는 스스로를 이벤트 기반, 논블로킹 I/O 모델을 사용해 가볍고 효율적이라고 표현했다.</description>
+    </item>
+    
+  </channel>
+</rss>
