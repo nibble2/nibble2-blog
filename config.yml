@@ -52,7 +52,7 @@ params:
 
   homeInfoParams:
     Title: 이다나 | Lee da na
-    Content: "안녕하세요 배우고 공유하는 개발자 이다나입니다.\n- 현재 Vue.js 프론트엔드 개발자로 일하고 있습니다.\n- 공부한 것을 바탕으로 느낀 점을 작성합니다.
+    Content: "안녕하세요 배우고 공유하는 개발자 이다나입니다.\n- 현재 Vue.js 프론트엔드 개발자로 일하고 있습니다.\n- 공부한 것을 바탕으로 느낀 점을 작성합니다."
 
   socialIcons:
     - name: "github"
